@@ -36,6 +36,3 @@ public extension ImageResource {
     }
 }
 #endif
-
-private class BundleToken {}
-

@@ -1,0 +1,9 @@
+import Resourceful
+
+/// Generated `Images` enum
+internal enum Images {
+
+    /// `ImageA` image resource
+    internal static let imageA = Resourceful.ImageResource(name: "ImageA", bundle: .main)
+
+}
