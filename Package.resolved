@@ -9,6 +9,15 @@
           "revision": "9564d61b08a5335ae0a36f789a7d71493eacadfc",
           "version": "0.3.2"
         }
+      },
+      {
+        "package": "XcodeEdit",
+        "repositoryURL": "https://github.com/tomlokhorst/XcodeEdit.git",
+        "state": {
+          "branch": null,
+          "revision": "dab519997ca05833470c88f0926b27498911ecbf",
+          "version": "2.7.7"
+        }
       }
     ]
   },
